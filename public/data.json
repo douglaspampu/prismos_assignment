@@ -1,0 +1,5029 @@
+{
+  "data": {
+    "people": [
+      {
+        "birthDate": "1960-11-04",
+        "firstName": "Agnes",
+        "firstNameTransliterated": "/'æɡnɪs/",
+        "gender": null,
+        "id": "000480a5-1a6e-459e-a757-7276a3af7139",
+        "lastName": "Jongerius",
+        "lastNameTransliterated": "'jɔŋəriʏs",
+        "email": "",
+        "careers": [
+          {
+            "id": "0247acec-7b6d-4742-b388-c105baf92e41",
+            "isPublic": true,
+            "endDate": null,
+            "position": "Member",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "Partij van de Arbeid",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0428bcfe3e98608880afa35d90f4f4f3",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER",
+            "startDate": "2014-07-14",
+            "organization": {
+              "description": "Southeast Asia, ASEAN",
+              "name": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "06288ad2-3cf3-4fe6-9599-9b5afa6c12fd",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "Member",
+            "startDate": "2014-07-01",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0a93d78c8a55e7941e8239680553070e",
+            "isPublic": true,
+            "endDate": "2024-07-15",
+            "position": "MEMBER",
+            "startDate": "2022-01-20",
+            "organization": {
+              "description": "Employment and Social Affairs",
+              "name": "Committee on Employment and Social Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "14d15704cc99d2df04862d03df6353ab",
+            "isPublic": true,
+            "endDate": "2014-07-06",
+            "position": "MEMBER",
+            "startDate": "2014-07-01",
+            "organization": {
+              "description": "Employment and Social Affairs",
+              "name": "Committee on Employment and Social Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1936-03-28",
+        "firstName": "Arie M.",
+        "firstNameTransliterated": "/ˈɑːri m/",
+        "gender": null,
+        "id": "001051cd53a467aa1c090507a76776dc",
+        "lastName": "Oostlander",
+        "lastNameTransliterated": "/ˈoʊstˌlændər/",
+        "email": "",
+        "careers": [
+          {
+            "id": "042491c3d20819c72495ed01bbe91991",
+            "isPublic": true,
+            "endDate": "1999-07-19",
+            "position": "MEMBER",
+            "startDate": "1997-01-16",
+            "organization": {
+              "description": "Security and Disarmament",
+              "name": "Subcommittee on Security and Disarmament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "07ded00ee9ed61daad88602ea47bdd34",
+            "isPublic": true,
+            "endDate": "1999-07-19",
+            "position": "MEMBER",
+            "startDate": "1994-07-19",
+            "organization": {
+              "description": "CDA",
+              "name": "Christen Democratisch Appèl",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0843b0f8ee4bfdb7d7b4ef761e4fc54e",
+            "isPublic": true,
+            "endDate": "1997-01-15",
+            "position": "MEMBER",
+            "startDate": "1995-07-12",
+            "organization": {
+              "description": "South-east Europe",
+              "name": "Delegation for relations with South-east Europe",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0c34808871e6e2c73539fd9857bcb0ee",
+            "isPublic": true,
+            "endDate": "1993-02-10",
+            "position": "MEMBER",
+            "startDate": "1992-01-15",
+            "organization": {
+              "description": "Hungary",
+              "name": "Delegation for relations with Hungary",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0d0f40a0e2e0015aa812d5f2a8b0c5f3",
+            "isPublic": true,
+            "endDate": "1997-01-15",
+            "position": "MEMBER",
+            "startDate": "1994-07-21",
+            "organization": {
+              "description": "Foreign Affairs, Security and Defence Policy",
+              "name": "Committee on Foreign Affairs, Security and Defence Policy",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1960-04-18",
+        "firstName": "Maurizio",
+        "firstNameTransliterated": "/mɔːˈritsio/",
+        "gender": null,
+        "id": "0015b44b4ea7e2302a79217b46d3e509",
+        "lastName": "Turco",
+        "lastNameTransliterated": "/'turko/",
+        "email": "",
+        "careers": [
+          {
+            "id": "0889c2dc0cf3f2c8c5115d106520381d",
+            "isPublic": true,
+            "endDate": "2001-10-02",
+            "position": "MEMBER",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "Technical Group of Independent Members",
+              "name": "Technical Group of Independent Members - mixed group",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0e0d9526c7203044bfb69a257363e140",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2002-01-17",
+            "organization": {
+              "description": "Women's Rights, Equal Opportunities",
+              "name": "Committee on Women's Rights and Equal Opportunities",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "160a7442d93d297a7f413feb502a50ad",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "2002-01-17",
+            "organization": {
+              "description": "Citizens' Freedoms and Rights",
+              "name": "Committee on Citizens' Freedoms and Rights, Justice and Home Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "35f0aacf35ae93ec47659da6ccb06ab1",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "457457a6e46419fe43633a2c982860c9",
+            "isPublic": true,
+            "endDate": "2002-02-04",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2002-01-17",
+            "organization": {
+              "description": "Agriculture",
+              "name": "Committee on Agriculture and Rural Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1970-12-21",
+        "firstName": "Yasmine",
+        "firstNameTransliterated": "/jæsmin/",
+        "gender": null,
+        "id": "0017fabf588d903c47c2ef24d8ae2c2c",
+        "lastName": "Boudjenah",
+        "lastNameTransliterated": "/bu:dʒɛnɑ:/",
+        "email": "",
+        "careers": [
+          {
+            "id": "3acaf2890063253319c19aa394e1fde6",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "PCF",
+              "name": "Parti communiste français",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "492259bb0c1be3b8ebaa97458cc62cbf",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "4b8f3f4970d3cb60ed74d37d1851863a",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2002-01-17",
+            "organization": {
+              "description": "Employment, Social Affairs",
+              "name": "Committee on Employment and Social Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "4eb0471e75cd08644df071d44d5ce5ab",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "2002-01-17",
+            "organization": {
+              "description": "Development and Cooperation",
+              "name": "Committee on Development and Cooperation",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "54ee59d2692570d9a33ddbfb7ad658ab",
+            "isPublic": true,
+            "endDate": "2002-01-14",
+            "position": "MEMBER",
+            "startDate": "1999-07-21",
+            "organization": {
+              "description": "Development and Cooperation",
+              "name": "Committee on Development and Cooperation",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1918-12-29",
+        "firstName": "Tullia",
+        "firstNameTransliterated": "/tʌliə/",
+        "gender": null,
+        "id": "00210d836f96209f7a2e22ac7140255d",
+        "lastName": "CARETTONI ROMAGNOLI",
+        "lastNameTransliterated": "/kɑːrɛttɔːni ʁɔmɑgnɔli/",
+        "email": "",
+        "careers": [
+          {
+            "id": "11cf0c626e4fe9de129f78071bc8f630",
+            "isPublic": true,
+            "endDate": "1984-07-23",
+            "position": "MEMBER",
+            "startDate": "1979-07-17",
+            "organization": {
+              "description": "Ind. Sin.",
+              "name": "Indipendenti di sinistra",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1c8f6f38cff999697e8260538aeaf5e7",
+            "isPublic": true,
+            "endDate": "1972-12-25",
+            "position": "MEMBER",
+            "startDate": "1971-01-29",
+            "organization": {
+              "description": "Ind. Sin.",
+              "name": "Indipendenti di sinistra",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "287c6f24dc9984263a36f3bfb1735514",
+            "isPublic": true,
+            "endDate": "1982-03-08",
+            "position": "MEMBER",
+            "startDate": "1979-12-10",
+            "organization": {
+              "description": "EEC-Turkey",
+              "name": "Delegation to the Joint Parliamentary Committee of the EEC-Turkey Association",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2ca1d59e64fbc2d1fc8e01ed0501fc1f",
+            "isPublic": true,
+            "endDate": "1972-10-25",
+            "position": "MEMBER",
+            "startDate": "1971-01-29",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2e1286281992d99c788afbb6d0e73239",
+            "isPublic": true,
+            "endDate": "1972-10-25",
+            "position": "MEMBER",
+            "startDate": "1971-01-29",
+            "organization": {
+              "description": "Non-attached",
+              "name": "Non-attached",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1970-09-27",
+        "firstName": "Jessica",
+        "firstNameTransliterated": "ˈdʒɛsɪkə",
+        "gender": null,
+        "id": "0029a279-61cd-4dbf-a308-4846a61b4848",
+        "lastName": "Stegrud",
+        "lastNameTransliterated": "/stɛɡrʊd/",
+        "email": "",
+        "careers": [
+          {
+            "id": "061831f7-45c7-46dd-9e31-d0762545932e",
+            "isPublic": true,
+            "endDate": "2022-09-25",
+            "position": "Substitute member",
+            "startDate": "2022-01-20",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "Committee on Economic and Monetary Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0bc1cc5708055f547bf50e05428089d4",
+            "isPublic": true,
+            "endDate": "2022-09-25",
+            "position": "MEMBER",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "17d45706-7740-4860-8dee-82887355d53c",
+            "isPublic": true,
+            "endDate": "2022-01-19",
+            "position": "Member",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "Committee on Industry, Research and Energy",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1da13b0e6a9f5a68014f5985eb84c249",
+            "isPublic": true,
+            "endDate": "2022-09-25",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2022-01-20",
+            "organization": {
+              "description": "Economic and Monetary Affairs",
+              "name": "Committee on Economic and Monetary Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3e7dda40-4cf3-440e-8e47-69e94a9d0566",
+            "isPublic": true,
+            "endDate": "2022-09-25",
+            "position": "Member",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1939-02-04",
+        "firstName": "Janelly",
+        "firstNameTransliterated": "ʤə'nɛli",
+        "gender": null,
+        "id": "002bd624682ab42c29d330f1c105d75b",
+        "lastName": "Fourtou",
+        "lastNameTransliterated": "/fuʁ.tu/",
+        "email": "",
+        "careers": [
+          {
+            "id": "0b8bd4bdef9987779644d85f6ed55bf5",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0d0801dcae9e243fb24bf6b85e81327b",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2004-07-20",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0e17a5d7623aee4125448405b3007177",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2004-07-20",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1c55933d6c5a7eb6f276fdcac765a82b",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2007-01-31",
+            "organization": {
+              "description": "Internal Market and Consumer Protection",
+              "name": "Committee on the Internal Market and Consumer Protection",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1c5cb49845f008cb34b5cf785e3959b8",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "2002-01-17",
+            "organization": {
+              "description": "Legal Affairs, Internal Market",
+              "name": "Committee on Legal Affairs and the Internal Market",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "infinity",
+        "firstName": "Gheorghe-Vlad",
+        "firstNameTransliterated": "ɡe̯orɡe vlad",
+        "gender": null,
+        "id": "00369fb6-14eb-58c6-ac06-e2a1a106ccab",
+        "lastName": "Nistor",
+        "lastNameTransliterated": "'ni.stor",
+        "email": "",
+        "careers": []
+      },
+      {
+        "birthDate": "1986-11-06",
+        "firstName": "Michael",
+        "firstNameTransliterated": "/ˈmaɪkəl/",
+        "gender": null,
+        "id": "003907e6-c682-44d8-b679-4c6349170052",
+        "lastName": "Bloss",
+        "lastNameTransliterated": "/blɔs/",
+        "email": "",
+        "careers": [
+          {
+            "id": "0764d034-3571-442a-86a8-5b89d9bf2479",
+            "isPublic": true,
+            "endDate": null,
+            "position": "Member",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0d21daf9-908b-4334-812d-12c9f0450fcb",
+            "isPublic": true,
+            "endDate": null,
+            "position": "Member",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "Group of the Greens/European Free Alliance",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0dcf5811a2170d18ad306e38757b4750",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1edbccfda277d05373297b2e9e438806",
+            "isPublic": true,
+            "endDate": "2022-01-19",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "Environment, Public Health and Food Safety",
+              "name": "Committee on the Environment, Public Health and Food Safety",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "317530e4632fd8ad5422dcb9027e290f",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "Environment, Public Health and Food Safety",
+              "name": "Committee on the Environment, Public Health and Food Safety",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1955-08-04",
+        "firstName": "José",
+        "firstNameTransliterated": "xo'se",
+        "gender": null,
+        "id": "0045358535149d0442cd31b0e1045d46",
+        "lastName": "Mendes Bota",
+        "lastNameTransliterated": "'mɛndɛz botɑ",
+        "email": "",
+        "careers": [
+          {
+            "id": "0bb04222f2d28c948afa90320a709d88",
+            "isPublic": true,
+            "endDate": "1994-07-18",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1994-02-01",
+            "organization": {
+              "description": "EU-Turkey",
+              "name": "Delegation to the EU-Turkey Joint Parliamentary Committee",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "30f0bb37293b04f8f069b142d4ae337c",
+            "isPublic": true,
+            "endDate": "1992-01-14",
+            "position": "MEMBER",
+            "startDate": "1989-07-26",
+            "organization": {
+              "description": "Development and Cooperation",
+              "name": "Committee on Development and Cooperation",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3896ea9fdac422eb2e9ff7f8b8980748",
+            "isPublic": true,
+            "endDate": "1992-01-14",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1989-07-26",
+            "organization": {
+              "description": "Youth, Culture, Education, the Media and Sport",
+              "name": "Committee on Youth, Culture, Education, the Media and Sport",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3abc51c9347d38f73eacb43c39671ce0",
+            "isPublic": true,
+            "endDate": "1999-07-19",
+            "position": "MEMBER",
+            "startDate": "1998-07-01",
+            "organization": {
+              "description": "Civil Liberties and Internal Affairs",
+              "name": "Committee on Civil Liberties and Internal Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3c65752ab4536951361a7e0c08802c25",
+            "isPublic": true,
+            "endDate": "1991-09-12",
+            "position": "MEMBER",
+            "startDate": "1990-09-13",
+            "organization": {
+              "description": "ACP-EU Joint Assembly",
+              "name": "Members from the European Parliament to the Joint Assembly of the Agreement between the African, Caribbean and Pacific States and the EEC (ACP-EEC)",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "infinity",
+        "firstName": "René A.L.",
+        "firstNameTransliterated": "/ʁəne a ɛl/",
+        "gender": null,
+        "id": "004cd7c3-6627-5aef-9329-4a9216f65d7f",
+        "lastName": "Paulhan",
+        "lastNameTransliterated": "/pɔːlhæn/",
+        "email": "",
+        "careers": []
+      },
+      {
+        "birthDate": "1935-11-14",
+        "firstName": "Armando",
+        "firstNameTransliterated": "/aɾ'mando/",
+        "gender": null,
+        "id": "004daa91619a962bc22be377e938cefb",
+        "lastName": "Veneto",
+        "lastNameTransliterated": "'vɛnɛto",
+        "email": "",
+        "careers": [
+          {
+            "id": "197868d5f27856682ea335a998c2ca3e",
+            "isPublic": true,
+            "endDate": "2007-01-30",
+            "position": "MEMBER",
+            "startDate": "2007-01-15",
+            "organization": {
+              "description": "Transport and Tourism",
+              "name": "Committee on Transport and Tourism",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2ec72c055071a3a506ecbf9e891d003e",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2007-01-31",
+            "organization": {
+              "description": "Transport and Tourism",
+              "name": "Committee on Transport and Tourism",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2f1169e2c394855a1ce4d2149bb2feb8",
+            "isPublic": true,
+            "endDate": "2007-01-30",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2007-01-15",
+            "organization": {
+              "description": "Agriculture and Rural Development",
+              "name": "Committee on Agriculture and Rural Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3fc8b695d7a09912d8ed9fa2375074b8",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2008-09-01",
+            "organization": {
+              "description": "Forza Italia",
+              "name": "Forza Italia",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "49332bd6731b66d737f7e5a140aea1e2",
+            "isPublic": true,
+            "endDate": "2008-08-31",
+            "position": "MEMBER",
+            "startDate": "2006-05-08",
+            "organization": {
+              "description": "Alleanza Popolare-U.D.EUR",
+              "name": "Alleanza Popolare - Unione Democratici per l'Europa",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1971-09-26",
+        "firstName": "Alexandra",
+        "firstNameTransliterated": "əˈlɛksændrə",
+        "gender": null,
+        "id": "0060cedae1b9673f759dff8e51e4f4b7",
+        "lastName": "Dobolyi",
+        "lastNameTransliterated": "/'doʊboli:/",
+        "email": "",
+        "careers": [
+          {
+            "id": "06984d15eb4565844769c3706ff1c177",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2007-01-31",
+            "organization": {
+              "description": "Foreign Affairs",
+              "name": "Committee on Foreign Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2265e8c34b7904cd97c34522533924e3",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2004-07-20",
+            "organization": {
+              "description": "MSZP",
+              "name": "Magyar Szocialista Párt",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "290509b461e9dd4576a3e869fee3ea4d",
+            "isPublic": true,
+            "endDate": "2007-06-19",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2006-01-19",
+            "organization": {
+              "description": "Crisis of the Equitable Life Assurance Society",
+              "name": "Committee of Inquiry into the crisis of the Equitable Life Assurance Society",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2b2b71c4a627965435df012a93cbd733",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2007-03-15",
+            "organization": {
+              "description": "India",
+              "name": "Delegation for relations with India",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2d568c495798aa90e99f90ca9610a2bd",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2007-03-15",
+            "organization": {
+              "description": "Korean Peninsula",
+              "name": "Delegation for relations with the Korean Peninsula",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1961-07-16",
+        "firstName": "Artur",
+        "firstNameTransliterated": "/aɾ'tur/",
+        "gender": null,
+        "id": "0062cd768ee1859a49e22e87f79788b2",
+        "lastName": "Plokšto",
+        "lastNameTransliterated": "'plɔkʃtɔ",
+        "email": "",
+        "careers": [
+          {
+            "id": "2f772990beab42a37259709e83acaf16",
+            "isPublic": true,
+            "endDate": "2004-04-30",
+            "position": "OBSERVER",
+            "startDate": "2003-04-28",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3b2f58dac095306aca660e8ea0904102",
+            "isPublic": true,
+            "endDate": "2004-04-30",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2003-04-28",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "4b0b246afd4c2f4a012526921c0a7e4c",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "2004-05-03",
+            "organization": {
+              "description": "Budgets",
+              "name": "Committee on Budgets",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "4eed9b2dfaec984b713452fe1efe2f8f",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "2004-05-01",
+            "organization": {
+              "description": "LSDP",
+              "name": "Lietuvos Socialdemokratų Partija",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "85270a520c919d030c9020b1021e1c12",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "2004-05-01",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1970-03-01",
+        "firstName": "Gheorghe",
+        "firstNameTransliterated": "/ɡe̯orɡe/",
+        "gender": null,
+        "id": "006ec99875b27d22ebf3cdfe468a566f",
+        "lastName": "Piperea",
+        "lastNameTransliterated": "/pi'pɛrɛa/",
+        "email": "",
+        "careers": [
+          {
+            "id": "08726312fbdaaba68cacd73917b72250",
+            "isPublic": true,
+            "endDate": "2024-10-02",
+            "position": "MEMBER",
+            "startDate": "2024-09-19",
+            "organization": {
+              "description": "OACPS-EU",
+              "name": "Delegation to the OACPS-EU Joint Parliamentary Assembly",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "16cbddb2bc139b8361ce1042980c88ec",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2f54b2cf01064c78e9dc9d1b5c56eb7a",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "Constitutional Affairs",
+              "name": "Committee on Constitutional Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3bb6e8d22fc76561c6fb73b38cdb0745",
+            "isPublic": true,
+            "endDate": "2024-09-16",
+            "position": "MEMBER",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "European Conservatives and Reformists",
+              "name": "European Conservatives and Reformists Group",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "4090bbb57833ef1656ddb91e1991e279",
+            "isPublic": true,
+            "endDate": "2024-10-02",
+            "position": "MEMBER",
+            "startDate": "2024-09-19",
+            "organization": {
+              "description": "Pacific-EU",
+              "name": "Delegation to the Pacific-EU Parliamentary Assembly",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1964-02-21",
+        "firstName": "Sławomir",
+        "firstNameTransliterated": "ˈswavɔmʲir",
+        "gender": null,
+        "id": "007becfc8bbaffb28209f18354de441d",
+        "lastName": "Kłosowski",
+        "lastNameTransliterated": "'kwɔsɔfskʲi",
+        "email": "",
+        "careers": [
+          {
+            "id": "1bb19bb3c3691d202cfc4272f3446652",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER",
+            "startDate": "2015-11-27",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "235333786a77cd7cadbaef645492b749",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER",
+            "startDate": "2015-11-27",
+            "organization": {
+              "description": "PiS",
+              "name": "Prawo i Sprawiedliwość",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "329cb59ac411b3c7a713fb80cdb1765d",
+            "isPublic": true,
+            "endDate": "2017-01-18",
+            "position": "MEMBER",
+            "startDate": "2016-01-19",
+            "organization": {
+              "description": "Regional Development",
+              "name": "Committee on Regional Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3831c4e6470a6f13f56de2de4a136372",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2016-06-17",
+            "organization": {
+              "description": "ACP",
+              "name": "Delegation to the ACP-EU Joint Parliamentary Assembly",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "667e1b14082deffee80693d0f0b625bb",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER",
+            "startDate": "2015-12-15",
+            "organization": {
+              "description": "Euronest",
+              "name": "Delegation to the Euronest Parliamentary Assembly",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1971-02-04",
+        "firstName": "Arkadiusz",
+        "firstNameTransliterated": "/ɑːrkəˈdjuːʃ/",
+        "gender": null,
+        "id": "0082573ffe56d915928746f2f329aa42",
+        "lastName": "Mularczyk",
+        "lastNameTransliterated": "'mʊlarʧɪk",
+        "email": "",
+        "careers": [
+          {
+            "id": "1e2af84eac37db0bdceeb8be81deb1fc",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "383f85d8ba3cd6e665048c5be4362896",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "Foreign Affairs",
+              "name": "Committee on Foreign Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "66bf48d79b94348e30f5df05ff638c6d",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "Human Rights",
+              "name": "Subcommittee on Human Rights",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "7018d8a6cac5af2c60465b2984280934",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "European Conservatives and Reformists",
+              "name": "European Conservatives and Reformists Group",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "7b954e81f507dff40e7fb35d63422437",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-09-19",
+            "organization": {
+              "description": "United States",
+              "name": "Delegation for relations with the United States",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1955-03-10",
+        "firstName": "Ignazio Roberto",
+        "firstNameTransliterated": "iɲˈɲattsjo roˈbɛrto",
+        "gender": null,
+        "id": "009bb307836232d9b5361ebd0021d11c",
+        "lastName": "Marino",
+        "lastNameTransliterated": "/məˈriːnoʊ/",
+        "email": "",
+        "careers": [
+          {
+            "id": "0209c6d6ed1df96a62485e051c8817d8",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "131134648690ee4037af832f43cc5f9d",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "Independente",
+              "name": "Independent",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "21c8b585ef184cc5246f307a35b9509d",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "Budgets",
+              "name": "Committee on Budgets",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "655b29fd8d962a74f87d5eeb3e058c8e",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-09-19",
+            "organization": {
+              "description": "OACPS-EU",
+              "name": "Delegation to the OACPS-EU Joint Parliamentary Assembly",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "840bd530b882bf262a459b2eb0cecd0c",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_BUREAU",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "The Greens/European Free Alliance",
+              "name": "Group of the Greens/European Free Alliance",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1919-08-23",
+        "firstName": "Nicolas Guy",
+        "firstNameTransliterated": "/niːkələs gaɪ/",
+        "gender": null,
+        "id": "009d0179a33a08927520179a0ed3d08f",
+        "lastName": "Barnett",
+        "lastNameTransliterated": "/bɑːrnɛt/",
+        "email": "",
+        "careers": [
+          {
+            "id": "6938895d67a9eff970256c4bc36b2cf5",
+            "isPublic": true,
+            "endDate": "1976-05-10",
+            "position": "MEMBER",
+            "startDate": "1975-07-01",
+            "organization": {
+              "description": "Lab.",
+              "name": "Labour Party",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "b364aa850e99b1650f669d8c4253a0ef",
+            "isPublic": true,
+            "endDate": "1976-05-10",
+            "position": "MEMBER",
+            "startDate": "1975-07-01",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "daa4c69974d025e5ecc323930cb91b5e",
+            "isPublic": true,
+            "endDate": "1976-05-10",
+            "position": "MEMBER",
+            "startDate": "1975-07-01",
+            "organization": {
+              "description": "Socialists",
+              "name": "Socialist Group",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "dd496461fdf98de5fff882ae9efc3a86",
+            "isPublic": true,
+            "endDate": "1976-05-10",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "1975-07-01",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1952-02-22",
+        "firstName": "Gesine",
+        "firstNameTransliterated": "/ɡeˈzine/",
+        "gender": null,
+        "id": "00ada5f0a31b4aec27df05c50a73a6a6",
+        "lastName": "Meissner",
+        "lastNameTransliterated": "ˈmaɪsnər",
+        "email": "",
+        "careers": [
+          {
+            "id": "101d0454b5bf794c86687e4949380d53",
+            "isPublic": true,
+            "endDate": "2012-09-06",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2012-01-19",
+            "organization": {
+              "description": "Women's Rights and Gender Equality",
+              "name": "Committee on Women's Rights and Gender Equality",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "140a0aed72a36b451300c42489f6de7d",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2012-09-07",
+            "organization": {
+              "description": "Fisheries",
+              "name": "Committee on Fisheries",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "144d239c26d511670542b03bb47c20d7",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER",
+            "startDate": "2009-07-14",
+            "organization": {
+              "description": "FDP",
+              "name": "Freie Demokratische Partei",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "14a8f6b4a5aef4c7f5c8c80f3b7cc27f",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2014-07-01",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "285947d391c1a6437c6de5c793e7aa89",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2012-01-19",
+            "organization": {
+              "description": "Development",
+              "name": "Committee on Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1924-05-25",
+        "firstName": "Heinrich",
+        "firstNameTransliterated": "ˈhaɪnʁɪç",
+        "gender": null,
+        "id": "00af2819369ff39599f8796d3b1ba336",
+        "lastName": "Aigner",
+        "lastNameTransliterated": "ˈaɪ̯gnər",
+        "email": "",
+        "careers": [
+          {
+            "id": "036d39bdeea0a7bb9c7cd1abaad16526",
+            "isPublic": true,
+            "endDate": "1979-07-16",
+            "position": "CHAIR_VICE",
+            "startDate": "1978-03-14",
+            "organization": {
+              "description": "Christian-Democratic Group (Group of the European",
+              "name": "Christian-Democratic Group (Group of the European People's Party)",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0d78c220be8311dba0ee98e9955b5924",
+            "isPublic": true,
+            "endDate": "1973-02-13",
+            "position": "MEMBER",
+            "startDate": "1970-01-21",
+            "organization": {
+              "description": "CSU",
+              "name": "Christlich-Soziale Union in Bayern e.V.",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1c2a412c10f66b9520d6497f0a7aafc9",
+            "isPublic": true,
+            "endDate": "1979-07-16",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "1977-01-19",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1d15847a0cf8ec74e1c4689cb4fddcf2",
+            "isPublic": true,
+            "endDate": "1977-01-18",
+            "position": "MEMBER",
+            "startDate": "1973-02-14",
+            "organization": {
+              "description": "CSU",
+              "name": "Christlich-Soziale Union in Bayern e.V.",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "273af3abc825e1e4c31b98eefcf159da",
+            "isPublic": true,
+            "endDate": "1965-12-08",
+            "position": "MEMBER",
+            "startDate": "1961-11-29",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1936-09-22",
+        "firstName": "Alan Leslie",
+        "firstNameTransliterated": "/ˈælən ˈlɛzli/",
+        "gender": null,
+        "id": "00afe55bd72b1b37a0f1dcbf83de581b",
+        "lastName": "Gillis",
+        "lastNameTransliterated": "/ˈɡɪlɪs/",
+        "email": "",
+        "careers": [
+          {
+            "id": "037f566974b660e381148f41cffe3181",
+            "isPublic": true,
+            "endDate": "1999-07-19",
+            "position": "MEMBER",
+            "startDate": "1994-07-19",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "04dcebd4a9cdd2d3fcbf36f62e9369be",
+            "isPublic": true,
+            "endDate": "1999-07-19",
+            "position": "MEMBER",
+            "startDate": "1994-07-19",
+            "organization": {
+              "description": "European People's Party",
+              "name": "Group of the European People's Party (Christian-Democratic Group)",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "288e9c33ab35de915af21c36d32dfb09",
+            "isPublic": true,
+            "endDate": "1999-07-19",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1997-01-16",
+            "organization": {
+              "description": "Development and Cooperation",
+              "name": "Committee on Development and Cooperation",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "420b39e520180598c44f20257aa8819a",
+            "isPublic": true,
+            "endDate": "1999-07-19",
+            "position": "MEMBER",
+            "startDate": "1994-07-19",
+            "organization": {
+              "description": "FG",
+              "name": "Fine Gael Party",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "5eb726c45d3a2418d69ebe6a917339ae",
+            "isPublic": true,
+            "endDate": "1999-07-19",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "1994-07-19",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1969-05-03",
+        "firstName": "Olaf",
+        "firstNameTransliterated": "/'oʊ.lɑːf/",
+        "gender": null,
+        "id": "00d9556c436eaabd1dc05943b80c55ca",
+        "lastName": "Stuger",
+        "lastNameTransliterated": "/ˈstuːgər/",
+        "email": "",
+        "careers": [
+          {
+            "id": "2e0819fc80399eeac3ebb82799a8111a",
+            "isPublic": true,
+            "endDate": "2015-06-14",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2014-07-14",
+            "organization": {
+              "description": "EEA/EFTA and the North",
+              "name": "Delegation for relations with Switzerland and Norway and to the EU-Iceland Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "41a9628a1e9f326c1a994d5f9b12e48b",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER",
+            "startDate": "2014-07-14",
+            "organization": {
+              "description": "United States",
+              "name": "Delegation for relations with the United States",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "5a5e8973f3955facc8f114878ec2d926",
+            "isPublic": true,
+            "endDate": "2017-01-18",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2015-06-25",
+            "organization": {
+              "description": "Environment, Public Health and Food Safety",
+              "name": "Committee on the Environment, Public Health and Food Safety",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "64db8bf18f22e3e7ca27b3f35361dd77",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2015-07-27",
+            "organization": {
+              "description": "EEA/EFTA and the North",
+              "name": "Delegation for relations with Switzerland and Norway and to the EU-Iceland Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "65162c87161572ec443c27c7b76365b6",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2014-07-01",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1915-04-02",
+        "firstName": "Klaus-Peter",
+        "firstNameTransliterated": "/klaʊsˈpeːtɐ/",
+        "gender": null,
+        "id": "00e2160e986b1d3715f856fdf606aadf",
+        "lastName": "Schulz",
+        "lastNameTransliterated": "/ʃʊlts/",
+        "email": "",
+        "careers": [
+          {
+            "id": "15e49dc48f45629bb9635ed46d769347",
+            "isPublic": true,
+            "endDate": "1977-01-21",
+            "position": "MEMBER",
+            "startDate": "1973-02-14",
+            "organization": {
+              "description": "CDU",
+              "name": "Christlich Demokratische Union Deutschlands",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "7a53b8e0ca63bf55b97c9ac4dbb49946",
+            "isPublic": true,
+            "endDate": "1977-01-21",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "1973-02-14",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "aa401977e8ce1069ab2f38da2311dabf",
+            "isPublic": true,
+            "endDate": "1977-01-21",
+            "position": "MEMBER",
+            "startDate": "1973-02-14",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "e7cb59cd87455702d948862881bcbc94",
+            "isPublic": true,
+            "endDate": "1977-01-21",
+            "position": "MEMBER",
+            "startDate": "1973-02-14",
+            "organization": {
+              "description": "Christian-Democratics",
+              "name": "Christian-Democratic Group",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1952-08-30",
+        "firstName": "Minerva Melpomeni",
+        "firstNameTransliterated": "/mɪˈnɜːrvə mɛlpɔˈmeni/",
+        "gender": null,
+        "id": "00f40681905400531d4e0576eb26baa4",
+        "lastName": "Malliori",
+        "lastNameTransliterated": "/mæliːɒriː/",
+        "email": "",
+        "careers": [
+          {
+            "id": "0626a9e668f4fed65d69aec3c738a5bb",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2002-01-17",
+            "organization": {
+              "description": "Industry, External Trade, Research, Energy",
+              "name": "Committee on Industry, External Trade, Research and Energy",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0ef34b951c9be2f7b86e3325b4593460",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "PASOK",
+              "name": "Panellinio Socialistiko Kinima",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1b472885819ad31171213472e14ed131",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "Party of European Socialists",
+              "name": "Group of the Party of European Socialists",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "26d54b68b5793fd060b1cf71da76cf75",
+            "isPublic": true,
+            "endDate": "2001-11-29",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2000-12-13",
+            "organization": {
+              "description": "Human genetics",
+              "name": "Temporary committee on human genetics and other new technologies in modern medicine",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3c68914071bbb15b7a666f0e8af72f38",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1959-02-11",
+        "firstName": "Jan",
+        "firstNameTransliterated": "/jan/",
+        "gender": null,
+        "id": "00f961dd46593244bbb63dae9f9bac8e",
+        "lastName": "Dhaene",
+        "lastNameTransliterated": "/'da:nə/",
+        "email": "",
+        "careers": [
+          {
+            "id": "01b6ae1c3ec68dcde502d7276af4638e",
+            "isPublic": true,
+            "endDate": "2002-09-25",
+            "position": "MEMBER",
+            "startDate": "2002-09-23",
+            "organization": {
+              "description": "Israel",
+              "name": "Delegation for relations with Israel",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "100cf05a55d0b2ba62fcc75bcfb4fd82",
+            "isPublic": true,
+            "endDate": "2004-01-27",
+            "position": "MEMBER",
+            "startDate": "2002-09-01",
+            "organization": {
+              "description": "Greens/European Free Alliance",
+              "name": "Group of the Greens/European Free Alliance",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1c2bf7735791ecd9b25f5751b5402035",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2002-09-01",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1d890e24b51d0d5d18d3b40fdf1a6a94",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "2002-09-02",
+            "organization": {
+              "description": "Regional Policy, Transport, Tourism",
+              "name": "Committee on Regional Policy, Transport and Tourism",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "4046b8b4674a2916d10ee5b19979a9d3",
+            "isPublic": true,
+            "endDate": "2004-01-27",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2003-11-20",
+            "organization": {
+              "description": "Improving safety at sea",
+              "name": "Temporary committee on improving safety at sea",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1941-07-18",
+        "firstName": "Karl",
+        "firstNameTransliterated": "/kɑːrl/",
+        "gender": null,
+        "id": "00f9eba6131e247ac7a3ce623244f568",
+        "lastName": "von Wogau",
+        "lastNameTransliterated": "/fɔn voːgau/",
+        "email": "",
+        "careers": [
+          {
+            "id": "008899be878d9e3dab5e879073024929",
+            "isPublic": true,
+            "endDate": "1994-07-18",
+            "position": "MEMBER",
+            "startDate": "1994-02-01",
+            "organization": {
+              "description": "European Economic Area",
+              "name": "Delegation to the European Economic Area Joint Parliamentary Committee",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "02608c00af5085202989a4291c8ff6b4",
+            "isPublic": true,
+            "endDate": "2007-01-30",
+            "position": "CHAIR",
+            "startDate": "2007-01-15",
+            "organization": {
+              "description": "Security and Defence",
+              "name": "Subcommittee on Security and Defence",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "05799f6bf903e6e20108fcb60f987bfe",
+            "isPublic": true,
+            "endDate": "1994-01-31",
+            "position": "MEMBER",
+            "startDate": "1993-02-11",
+            "organization": {
+              "description": "Switzerland",
+              "name": "Delegation for relations with Switzerland",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0b678e7c329c05c565e8952ab54581eb",
+            "isPublic": true,
+            "endDate": "1984-07-23",
+            "position": "MEMBER",
+            "startDate": "1983-04-11",
+            "organization": {
+              "description": "United States",
+              "name": "Delegation for relations with the United States",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0e6dce077694aac3619b01ffb45b5dd5",
+            "isPublic": true,
+            "endDate": "1987-01-20",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1984-07-26",
+            "organization": {
+              "description": "Energy, Research and Technology",
+              "name": "Committee on Energy, Research and Technology",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1915-01-18",
+        "firstName": "Michel",
+        "firstNameTransliterated": "miʃɛl",
+        "gender": null,
+        "id": "00fffbaa08ba5c83a44c33ec34961a0d",
+        "lastName": "de Camaret",
+        "lastNameTransliterated": "/də kaməʁɛ/",
+        "email": "",
+        "careers": [
+          {
+            "id": "1a99d955552ee8ca57ddf53349d2f82f",
+            "isPublic": true,
+            "endDate": "1987-01-20",
+            "position": "MEMBER",
+            "startDate": "1986-04-18",
+            "organization": {
+              "description": "Budgets",
+              "name": "Committee on Budgets",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2379105951cd662dd23db72264780755",
+            "isPublic": true,
+            "endDate": "1987-06-24",
+            "position": "MEMBER",
+            "startDate": "1987-01-21",
+            "organization": {
+              "description": "Economic and Monetary Affairs",
+              "name": "Committee on Economic and Monetary Affairs and Industrial Policy",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "42236b9977e27723d525d54f4095dee9",
+            "isPublic": true,
+            "endDate": "1985-12-17",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1984-09-24",
+            "organization": {
+              "description": "Economic and Monetary Affairs",
+              "name": "Committee on Economic and Monetary Affairs and Industrial Policy",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "45d4003fac2a9847ea239bfa82d8072b",
+            "isPublic": true,
+            "endDate": "1986-04-18",
+            "position": "MEMBER",
+            "startDate": "1984-07-26",
+            "organization": {
+              "description": "External Economic Relations",
+              "name": "Committee on External Economic Relations",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "51a6909ca66bee92a477ad8ca5bd30ea",
+            "isPublic": true,
+            "endDate": "1986-03-09",
+            "position": "CHAIR",
+            "startDate": "1985-02-12",
+            "organization": {
+              "description": "Gulf States",
+              "name": "Delegation for relations with the Gulf States",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1965-09-19",
+        "firstName": "Ilia",
+        "firstNameTransliterated": "/ˈiːliə/",
+        "gender": null,
+        "id": "0103e95fa405a48907b08bb00f3f8ef7",
+        "lastName": "Lazarov",
+        "lastNameTransliterated": "'la.za.rɔv",
+        "email": "",
+        "careers": [
+          {
+            "id": "01d67f2e0abbf3964e0f23a33ee8d6ce",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1c705ad9823c25249957291ca4b4a360",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "Group of the European People's Party (Christian Democrats)",
+              "name": "Group of the European People's Party (Christian Democrats)",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1eab9d9526044b1f02854fceec48e0fd",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "International Trade",
+              "name": "Committee on International Trade",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "36f5ac5c8eb142345e4a3b3064eba7af",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2024-09-19",
+            "organization": {
+              "description": "Chile",
+              "name": "Delegation to the EU-Chile Joint Parliamentary Committee",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "5dd9ed15a19f9ec5c8078129d83a3a36",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2024-09-19",
+            "organization": {
+              "description": "Mercosur",
+              "name": "Delegation for relations with Mercosur",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1947-03-22",
+        "firstName": "Louis",
+        "firstNameTransliterated": "/luːiː/",
+        "gender": null,
+        "id": "010bb852fe962e8e76b2650c9393b524",
+        "lastName": "Grech",
+        "lastNameTransliterated": "/ɡrɛk/",
+        "email": "",
+        "careers": [
+          {
+            "id": "03c3a2a8ce111c5b50254b4228f27c1a",
+            "isPublic": true,
+            "endDate": "2008-11-18",
+            "position": "MEMBER",
+            "startDate": "2007-01-31",
+            "organization": {
+              "description": "Budgets",
+              "name": "Committee on Budgets",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "08b49fd9735c140b59e7644ecce27ab1",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2004-07-20",
+            "organization": {
+              "description": "Socialist",
+              "name": "Socialist Group in the European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "09800c6c061211bb655e77c895497ca9",
+            "isPublic": true,
+            "endDate": "2008-12-14",
+            "position": "MEMBER",
+            "startDate": "2008-11-19",
+            "organization": {
+              "description": "Economic and Monetary Affairs",
+              "name": "Committee on Economic and Monetary Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0f84c39d85a718fd4fe250b6dfdb71fb",
+            "isPublic": true,
+            "endDate": "2007-01-14",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2004-07-21",
+            "organization": {
+              "description": "Regional Development",
+              "name": "Committee on Regional Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2f2969c00ac8ffc9f198a577b672d483",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2004-07-20",
+            "organization": {
+              "description": "MLP",
+              "name": "Partit Laburista",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1956-05-24",
+        "firstName": "Nathalie",
+        "firstNameTransliterated": "naːtəliː",
+        "gender": null,
+        "id": "010c02efb35761a95d94a2509f12d468",
+        "lastName": "Griesbeck",
+        "lastNameTransliterated": "/ɡriːsbɛk/",
+        "email": "",
+        "careers": [
+          {
+            "id": "00169cb977581e5b6e47bf73668a5187",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2012-01-19",
+            "organization": {
+              "description": "Transport and Tourism",
+              "name": "Committee on Transport and Tourism",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "02739ffb8b3acbe0571502b4c7eb715f",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2007-03-14",
+            "organization": {
+              "description": "Mercosur",
+              "name": "Delegation for relations with Mercosur",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "05a299387a49ac2aa0e0e5f597512056",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER",
+            "startDate": "2012-01-19",
+            "organization": {
+              "description": "Civil Liberties, Justice and Home Affairs",
+              "name": "Committee on Civil Liberties, Justice and Home Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0a230157cf43ab7a4ea74a426b44a15d",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2009-09-16",
+            "organization": {
+              "description": "Delegation to the Euro-Latin American Parliamentary Assembly",
+              "name": "Delegation to the Euro-Latin American Parliamentary Assembly",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0da19d2fd8e37a32267584122db081c8",
+            "isPublic": true,
+            "endDate": "2008-03-27",
+            "position": "MEMBER",
+            "startDate": "2004-07-20",
+            "organization": {
+              "description": "UDF",
+              "name": "Union pour la démocratie française",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1963-04-26",
+        "firstName": "Claudia",
+        "firstNameTransliterated": "ˈklaʊdia",
+        "gender": null,
+        "id": "0125119413ae75ebe3dd35ab02cd227e",
+        "lastName": "Schmidt",
+        "lastNameTransliterated": "/ʃmɪt/",
+        "email": "",
+        "careers": [
+          {
+            "id": "025cf4af65a5eb4ded1725bcd74772cc",
+            "isPublic": true,
+            "endDate": "2018-03-11",
+            "position": "MEMBER",
+            "startDate": "2017-12-11",
+            "organization": {
+              "description": "Euronest",
+              "name": "Delegation to the Euronest Parliamentary Assembly",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "05260af8af490914092332dd67e96b12",
+            "isPublic": true,
+            "endDate": "2017-01-18",
+            "position": "MEMBER",
+            "startDate": "2014-07-01",
+            "organization": {
+              "description": "Transport and Tourism",
+              "name": "Committee on Transport and Tourism",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0ca4d0c4c9d0f368c81a6f9756bd73b6",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER",
+            "startDate": "2017-01-19",
+            "organization": {
+              "description": "Budgetary Control",
+              "name": "Committee on Budgetary Control",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "16ede72242b92ad097285980e1316d53",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER",
+            "startDate": "2014-07-01",
+            "organization": {
+              "description": "Group of the European People's Party (Christian Democrats)",
+              "name": "Group of the European People's Party (Christian Democrats)",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2859fe6d8e0e0c47d086ac4e2a37a39f",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2017-01-19",
+            "organization": {
+              "description": "Regional Development",
+              "name": "Committee on Regional Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1925-03-28",
+        "firstName": "Libero",
+        "firstNameTransliterated": "/liˈbɛro/",
+        "gender": null,
+        "id": "012a172af8565cddfc462f57d092559a",
+        "lastName": "Della Briotta",
+        "lastNameTransliterated": "/dɛla briˈɔtta/",
+        "email": "",
+        "careers": [
+          {
+            "id": "38fbda20ea97b6a983d01b7e537bcb5d",
+            "isPublic": true,
+            "endDate": "1976-10-15",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "1972-10-26",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "6681f18a2d1540142abcd7c1f6c3b90a",
+            "isPublic": true,
+            "endDate": "1976-10-15",
+            "position": "MEMBER",
+            "startDate": "1972-10-26",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "ac44d86f06634922c0c29fef6876b63d",
+            "isPublic": true,
+            "endDate": "1976-10-15",
+            "position": "MEMBER",
+            "startDate": "1972-10-26",
+            "organization": {
+              "description": "PSI",
+              "name": "Partito socialista italiano",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "b3e30dd1f944c9a3b2d82012fba8f0e7",
+            "isPublic": true,
+            "endDate": "1976-10-15",
+            "position": "MEMBER",
+            "startDate": "1972-10-26",
+            "organization": {
+              "description": "Socialists",
+              "name": "Socialist Group",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1942-10-03",
+        "firstName": "Emmanouil",
+        "firstNameTransliterated": "ɛmanuil",
+        "gender": null,
+        "id": "0151de1edd5100e0067e24ab3b488cb9",
+        "lastName": "Bakopoulos",
+        "lastNameTransliterated": "/bækɵpɒpɵs/",
+        "email": "",
+        "careers": [
+          {
+            "id": "159f51495c5361eea93f60aa08dd26db",
+            "isPublic": true,
+            "endDate": "1999-10-12",
+            "position": "MEMBER",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "European United Left - Nordic Green Left",
+              "name": "Confederal Group of the European United Left/Nordic Green Left",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "174f32ffe8991824e9c2d00ff701bc65",
+            "isPublic": true,
+            "endDate": "2002-01-14",
+            "position": "MEMBER",
+            "startDate": "1999-07-21",
+            "organization": {
+              "description": "Regional Policy, Transport, Tourism",
+              "name": "Committee on Regional Policy, Transport and Tourism",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1b847c7a92dfb07bf1e885f829b1ab23",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1e36885cebeea9f5f8d3e674376a415d",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "DI.K.KI.",
+              "name": "Dimokratiko Kinoniko Kinima",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1ec0f54ce3b94240458bfd8fdb7f9010",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER_BUREAU",
+            "startDate": "1999-10-13",
+            "organization": {
+              "description": "European United Left - Nordic Green Left",
+              "name": "Confederal Group of the European United Left/Nordic Green Left",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1943-12-05",
+        "firstName": "Eva",
+        "firstNameTransliterated": "/'i:və/",
+        "gender": null,
+        "id": "0155792388f27300c229529f9302a33d",
+        "lastName": "Joly",
+        "lastNameTransliterated": "ʒɔli",
+        "email": "",
+        "careers": [
+          {
+            "id": "05794252512ee405bf6778be2b6d6eab",
+            "isPublic": true,
+            "endDate": "2017-06-19",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2014-07-14",
+            "organization": {
+              "description": "Mashreq",
+              "name": "Delegation for relations with the Mashreq countries",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1bd2e29a82655cbdace5b15049829d1e",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2012-01-19",
+            "organization": {
+              "description": "Budgetary Control",
+              "name": "Committee on Budgetary Control",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1e208cdca37a6b2f7cbd2d5554e0c24e",
+            "isPublic": true,
+            "endDate": "2017-01-18",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2014-07-01",
+            "organization": {
+              "description": "Economic and Monetary Affairs",
+              "name": "Committee on Economic and Monetary Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1e3c31306eb4a4061491ea196d4f2f14",
+            "isPublic": true,
+            "endDate": "2015-02-25",
+            "position": "MEMBER",
+            "startDate": "2015-02-12",
+            "organization": {
+              "description": "Tax Rulings and Other Measures Similar in Nature or Effect",
+              "name": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2004d00e1953a82773378f976eb26c12",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER",
+            "startDate": "2012-01-23",
+            "organization": {
+              "description": "Conference of Committee Chairs",
+              "name": "Conference of Committee Chairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1972-02-08",
+        "firstName": "Joanna",
+        "firstNameTransliterated": "/dʒoʊˈænə/",
+        "gender": null,
+        "id": "0157818f430777af4c3a50f691e23cc1",
+        "lastName": "Scheuring-Wielgus",
+        "lastNameTransliterated": "/ʃɔɪrɪŋ ˈviːlgʊs/",
+        "email": "",
+        "careers": [
+          {
+            "id": "1b2743955ef48f8bd2e4f3089acd30c0",
+            "isPublic": true,
+            "endDate": "2024-10-02",
+            "position": "MEMBER",
+            "startDate": "2024-09-19",
+            "organization": {
+              "description": "Türkiye",
+              "name": "Delegation to the EU-Türkiye Joint Parliamentary Committee",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "32ff40c99822d1abfd3b6c7b887909ef",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "Petitions",
+              "name": "Committee on Petitions",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "4a2cd26eb72b4120819db6aa2cb4b62e",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "Culture and Education",
+              "name": "Committee on Culture and Education",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "4e391ee15c8ba717de8052baa51bd5b7",
+            "isPublic": true,
+            "endDate": null,
+            "position": "CHAIR_VICE",
+            "startDate": "2024-10-03",
+            "organization": {
+              "description": "Türkiye",
+              "name": "Delegation to the EU-Türkiye Joint Parliamentary Committee",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "4fe083fe9fb787973a79cf84dc3aa7de",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1967-09-03",
+        "firstName": "Valeriu Ștefan",
+        "firstNameTransliterated": "/vɑˈle.ri.u ʃteˈfan/",
+        "gender": null,
+        "id": "0159e73b771a1743d7d27474446e141e",
+        "lastName": "Zgonea",
+        "lastNameTransliterated": "/zgɔ'nɛa/",
+        "email": "",
+        "careers": [
+          {
+            "id": "2801bd5a8aff6ac74cb257638f1ce15a",
+            "isPublic": true,
+            "endDate": "2006-07-12",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2005-09-26",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "384b54a6b0cf6927450b7283f0157bec",
+            "isPublic": true,
+            "endDate": "2006-07-12",
+            "position": "OBSERVER",
+            "startDate": "2005-09-29",
+            "organization": {
+              "description": "Budgets",
+              "name": "Committee on Budgets",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "bac782309993f8fe46c65b7d48ed4299",
+            "isPublic": true,
+            "endDate": "2006-07-12",
+            "position": "OBSERVER",
+            "startDate": "2005-09-26",
+            "organization": {
+              "description": "PSD",
+              "name": "Partidul Social Democrat",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "da0efa87ac35a7b5aa089164dcf53bc2",
+            "isPublic": true,
+            "endDate": "2006-07-12",
+            "position": "OBSERVER",
+            "startDate": "2005-09-26",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "e133b04b098d71face27651690fd0763",
+            "isPublic": true,
+            "endDate": "2006-07-12",
+            "position": "OBSERVER",
+            "startDate": "2005-09-26",
+            "organization": {
+              "description": "Socialist",
+              "name": "Socialist Group in the European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1945-06-07",
+        "firstName": "John",
+        "firstNameTransliterated": "d͡ʒɒn",
+        "gender": null,
+        "id": "015d2d42f2ceeb64d2b5e418065bfdc2",
+        "lastName": "Whittaker",
+        "lastNameTransliterated": "/'wɪtəkər/",
+        "email": "",
+        "careers": [
+          {
+            "id": "09b5a83e6dd4c96da644982fd69101fe",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2004-07-20",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0b071f849fcca622f6a5de972cfada21",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2004-07-20",
+            "organization": {
+              "description": "Independence/Democracy",
+              "name": "Independence/Democracy Group",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "12ab1f0f1e461dd143d7be6be67c9a9c",
+            "isPublic": true,
+            "endDate": "2005-06-08",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2004-10-14",
+            "organization": {
+              "description": "Policy challenges and budgetary means of the enlarged Union 2007-2013",
+              "name": "Temporary committee on policy challenges and budgetary means of the enlarged Union 2007-2013",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "34b8778186db99e9f0f17bed6e09c4a0",
+            "isPublic": true,
+            "endDate": "2007-01-14",
+            "position": "MEMBER",
+            "startDate": "2004-07-21",
+            "organization": {
+              "description": "Economic and Monetary Affairs",
+              "name": "Committee on Economic and Monetary Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3ee23cea3d6ad8446b4be68c266720b0",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2004-07-20",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1967-02-21",
+        "firstName": "Sari",
+        "firstNameTransliterated": "/'sɑːri/",
+        "gender": null,
+        "id": "0163f84033e652860c8828c23a0cd2e4",
+        "lastName": "Essayah",
+        "lastNameTransliterated": "/ɛsɑjɑ/",
+        "email": "",
+        "careers": [
+          {
+            "id": "0503b32f372847ff58566f73e226bd0a",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER",
+            "startDate": "2009-09-16",
+            "organization": {
+              "description": "Delegation to the UfM Parliamentary Assembly",
+              "name": "Delegation to the Parliamentary Assembly of the Union for the Mediterranean",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2d9d67c7682fdd95aba9ec27301e6403",
+            "isPublic": true,
+            "endDate": "2012-01-18",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2009-07-16",
+            "organization": {
+              "description": "Economic and Monetary Affairs",
+              "name": "Committee on Economic and Monetary Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3b92099e0880fe7f7034536cf1256770",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2009-09-16",
+            "organization": {
+              "description": "Maghreb",
+              "name": "Delegation for relations with the Maghreb countries and the Arab Maghreb Union",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "5c17d9971822b92bbdfe12213d557d76",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER",
+            "startDate": "2009-07-14",
+            "organization": {
+              "description": "KD",
+              "name": "Suomen kristillisdemokraatit",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "66769e9d8629d814952445a2d0f8ac3c",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER",
+            "startDate": "2012-01-19",
+            "organization": {
+              "description": "Employment and Social Affairs",
+              "name": "Committee on Employment and Social Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1934-01-27",
+        "firstName": "Federico",
+        "firstNameTransliterated": "/feðeˈɾiko/",
+        "gender": null,
+        "id": "016d04afebcebf3e9709c408b672d51a",
+        "lastName": "Mayor Zaragoza",
+        "lastNameTransliterated": "/meɪ.ər zɑːr.ə.goʊ.zə/",
+        "email": "",
+        "careers": [
+          {
+            "id": "0d2f65584f09941e8f1dc2794dc52905",
+            "isPublic": true,
+            "endDate": "1987-12-16",
+            "position": "MEMBER",
+            "startDate": "1987-11-18",
+            "organization": {
+              "description": "Energy, Research and Technology",
+              "name": "Committee on Energy, Research and Technology",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "295e3d00eb3e5b0b2f4d2d92f2505e9f",
+            "isPublic": true,
+            "endDate": "1987-12-16",
+            "position": "MEMBER",
+            "startDate": "1987-07-06",
+            "organization": {
+              "description": "CDS",
+              "name": "Centro Democràtico y Social",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2d87a5e75d746fb5670f343f598ee07c",
+            "isPublic": true,
+            "endDate": "1987-12-16",
+            "position": "MEMBER",
+            "startDate": "1987-11-18",
+            "organization": {
+              "description": "Non-attached",
+              "name": "Non-attached",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2eac93f62ea92c444b93f54d12cfbc58",
+            "isPublic": true,
+            "endDate": "1987-11-17",
+            "position": "MEMBER",
+            "startDate": "1987-09-17",
+            "organization": {
+              "description": "Technical Coordination and Defence of Independent",
+              "name": "Technical Coordination and Defence of Independent Groups and Members",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "52de937dc85416dd98702a66be49c355",
+            "isPublic": true,
+            "endDate": "1987-09-16",
+            "position": "MEMBER",
+            "startDate": "1987-07-06",
+            "organization": {
+              "description": "Non-attached",
+              "name": "Non-attached",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1945-05-03",
+        "firstName": "Armonia",
+        "firstNameTransliterated": "/ɑːrˈmoʊniə/",
+        "gender": null,
+        "id": "01705164ac671ada8f57c5402512fa3e",
+        "lastName": "Bordes",
+        "lastNameTransliterated": "/'bɔːrdz/",
+        "email": "",
+        "careers": [
+          {
+            "id": "03a6d0ebe7821c5079caa30c6ba44d38",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "2002-01-17",
+            "organization": {
+              "description": "Economic and Monetary Affairs",
+              "name": "Committee on Economic and Monetary Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "16c8dfbb598c4d0cb4af690feb5ccb58",
+            "isPublic": true,
+            "endDate": "2002-01-14",
+            "position": "MEMBER",
+            "startDate": "1999-09-29",
+            "organization": {
+              "description": "Kazakhstan,...",
+              "name": "Delegations to the parliamentary cooperation committees and delegations for relations with Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan, Turkmenistan and Mongolia",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1800d892ee789097cc560551a68c1195",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "22d116a4058040e0d620346206b5af3a",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "2002-02-07",
+            "organization": {
+              "description": "Kazakhstan, ...",
+              "name": "Delegation to the EU-Kazakhstan, EU-Kyrgyzstan and EU-Uzbekistan Parliamentary Cooperation Committees and Delegation for relations with Tadjikistan, Turkmenistan and Mongolia",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "39dbea760a00e85780042d9e725114ac",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "European United Left - Nordic Green Left",
+              "name": "Confederal Group of the European United Left/Nordic Green Left",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1947-09-28",
+        "firstName": "Lyndon H.A.",
+        "firstNameTransliterated": "ˈlɪndən eɪʃ\n",
+        "gender": null,
+        "id": "0170555d53ab3e4b728655e3df802f2b",
+        "lastName": "Harrison",
+        "lastNameTransliterated": "/'hærɪsən/",
+        "email": "",
+        "careers": [
+          {
+            "id": "15e794023db356e0172004e776440ebe",
+            "isPublic": true,
+            "endDate": "1999-02-23",
+            "position": "MEMBER",
+            "startDate": "1997-10-14",
+            "organization": {
+              "description": "ASEAN",
+              "name": "Delegation for relations with the Member States of ASEAN, South-east Asia and the Republic of Korea",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1921353752244d21aaa71fcb24525da4",
+            "isPublic": true,
+            "endDate": "1994-07-18",
+            "position": "MEMBER",
+            "startDate": "1989-07-25",
+            "organization": {
+              "description": "Lab.",
+              "name": "Labour Party",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1982bacb73644948b39a57a44b2c15c1",
+            "isPublic": true,
+            "endDate": "1999-07-19",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "1994-07-19",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1dea973e5c0974add6c959fbaa2958c3",
+            "isPublic": true,
+            "endDate": "1997-10-13",
+            "position": "MEMBER",
+            "startDate": "1997-01-16",
+            "organization": {
+              "description": "ASEAN",
+              "name": "Delegation for relations with the Member States of ASEAN, South-east Asia and the Republic of Korea",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1e6763c31acb66e20e3a688ef5fa5660",
+            "isPublic": true,
+            "endDate": "1994-07-18",
+            "position": "MEMBER",
+            "startDate": "1993-04-21",
+            "organization": {
+              "description": "Party of European Socialists",
+              "name": "Group of the Party of European Socialists",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1957-07-30",
+        "firstName": "Ingo",
+        "firstNameTransliterated": "/'ɪŋgoʊ/",
+        "gender": null,
+        "id": "018a6da2a73c8f8aee2735ddb4ba46ba",
+        "lastName": "Schmitt",
+        "lastNameTransliterated": "/ʃmɪt/",
+        "email": "",
+        "careers": [
+          {
+            "id": "06f3869b902e173d8906e6a9a942cb6b",
+            "isPublic": true,
+            "endDate": "2002-01-14",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1999-07-21",
+            "organization": {
+              "description": "Citizens' Freedoms and Rights",
+              "name": "Committee on Citizens' Freedoms and Rights, Justice and Home Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "07ff2bc9c6b444daf5bedd32a17b012d",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "2002-02-07",
+            "organization": {
+              "description": "Central America and Mexico",
+              "name": "Delegation for relations with the countries of Central America and Mexico",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0e8f317cb8d70e9960795864de913ec2",
+            "isPublic": true,
+            "endDate": "2005-10-17",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2004-07-20",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0ff094f8d82d1fa48a28edf4949c788c",
+            "isPublic": true,
+            "endDate": "2005-10-17",
+            "position": "MEMBER",
+            "startDate": "2004-07-21",
+            "organization": {
+              "description": "Transport and Tourism",
+              "name": "Committee on Transport and Tourism",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "33f0814fc9b071166407337fcd9b5a3c",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "CDU",
+              "name": "Christlich Demokratische Union Deutschlands",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1952-02-25",
+        "firstName": "Elisabeth",
+        "firstNameTransliterated": "/ɪˈlɪzəbɛθ/",
+        "gender": null,
+        "id": "0198078523e4f7ed0c1cc6f199d0025c",
+        "lastName": "Hlavac",
+        "lastNameTransliterated": "'ɦlava:ts",
+        "email": "",
+        "careers": [
+          {
+            "id": "0cf2e34ec5a26fe4a66e9af31b2d4175",
+            "isPublic": true,
+            "endDate": "1996-11-10",
+            "position": "MEMBER",
+            "startDate": "1995-07-12",
+            "organization": {
+              "description": "Estonia, Lithuania and Latvia",
+              "name": "Delegation for relations with Estonia, Lithuania and Latvia",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "354f45fb329f61588952833ac3609db9",
+            "isPublic": true,
+            "endDate": "1996-11-10",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "1995-01-01",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "4dfbb59f75149923cf5116a6b077a85c",
+            "isPublic": true,
+            "endDate": "1996-11-10",
+            "position": "MEMBER",
+            "startDate": "1995-01-19",
+            "organization": {
+              "description": "Legal Affairs and Citizens' Rights",
+              "name": "Committee on Legal Affairs and Citizens' Rights",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "5f70bcb4d534567402417187153aaba1",
+            "isPublic": true,
+            "endDate": "1995-03-14",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1995-01-19",
+            "organization": {
+              "description": "Foreign Affairs, Security and Defence Policy",
+              "name": "Committee on Foreign Affairs, Security and Defence Policy",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "7250832f9f1a9305b077215cdf862bdb",
+            "isPublic": true,
+            "endDate": "1996-02-16",
+            "position": "MEMBER",
+            "startDate": "1995-10-11",
+            "organization": {
+              "description": "EU-Czech Republic",
+              "name": "Delegation to the EU-Czech Republic Joint Parliamentary Committee",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1918-08-05",
+        "firstName": "Olivier",
+        "firstNameTransliterated": "/ɔ.liv.je/",
+        "gender": null,
+        "id": "019bbc43a759a49318a3b48b7885c701",
+        "lastName": "LEFEVRE D'ORMESSON",
+        "lastNameTransliterated": "ləfɛvr dɔʁmɛsɔ̃",
+        "email": "",
+        "careers": [
+          {
+            "id": "0cfd7a8e8ffdcb1ea925ac86afc4f714",
+            "isPublic": true,
+            "endDate": "1984-07-23",
+            "position": "MEMBER",
+            "startDate": "1983-04-11",
+            "organization": {
+              "description": "Mashreq",
+              "name": "Delegation for relations with the Mashreq countries",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2595d30c85ab469e6d1cb4b7955e9188",
+            "isPublic": true,
+            "endDate": "1979-11-15",
+            "position": "MEMBER",
+            "startDate": "1979-07-20",
+            "organization": {
+              "description": "Energy and Research",
+              "name": "Committee on Energy and Research",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "358caf6b31572d87238d1c9c57a08bbf",
+            "isPublic": true,
+            "endDate": "1984-07-23",
+            "position": "MEMBER",
+            "startDate": "1979-07-17",
+            "organization": {
+              "description": "UFE",
+              "name": "Union pour la France en Europe",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "501c2d213c6de914873be1e4b6648b63",
+            "isPublic": true,
+            "endDate": "1984-07-23",
+            "position": "MEMBER",
+            "startDate": "1979-12-14",
+            "organization": {
+              "description": "Agriculture",
+              "name": "Committee on Agriculture",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "55a5ef6a041052caf1e150554ffec211",
+            "isPublic": true,
+            "endDate": "1981-04-09",
+            "position": "MEMBER",
+            "startDate": "1980-05-22",
+            "organization": {
+              "description": "Budgetary Control",
+              "name": "Committee on Budgetary Control",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1914-07-19",
+        "firstName": "Bertrand",
+        "firstNameTransliterated": "/bɛʁ.tʁã/",
+        "gender": null,
+        "id": "019c405858111c875892b4d8f95bc07b",
+        "lastName": "Motte",
+        "lastNameTransliterated": "/mɒt/",
+        "email": "",
+        "careers": [
+          {
+            "id": "22c4da390d0986b4e50b0780f235a3a3",
+            "isPublic": true,
+            "endDate": "1962-12-19",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "1961-12-14",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "29c4095b7b22de1b1ee53c901ad62535",
+            "isPublic": true,
+            "endDate": "1961-12-13",
+            "position": "MEMBER",
+            "startDate": "1959-12-16",
+            "organization": {
+              "description": "Liberals and Democratics",
+              "name": "Liberal and Democratic Group",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "29f6a821519b7e617e9afcf2cadb6e9a",
+            "isPublic": true,
+            "endDate": "1962-12-19",
+            "position": "MEMBER",
+            "startDate": "1961-12-14",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "4ea9583fc525a9c8a880a717a6a7882c",
+            "isPublic": true,
+            "endDate": "1962-12-19",
+            "position": "MEMBER",
+            "startDate": "1961-12-14",
+            "organization": {
+              "description": "Liberals and Democratics",
+              "name": "Liberal and Democratic Group",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "5a6ddbb35c786c89c0114f184ad5e6d0",
+            "isPublic": true,
+            "endDate": "1961-12-13",
+            "position": "MEMBER",
+            "startDate": "1959-12-16",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1987-04-06",
+        "firstName": "Anna Júlia",
+        "firstNameTransliterated": "'ɑ:nə 'ʒu:lɪə",
+        "gender": null,
+        "id": "01a36794-44a4-4d43-9abc-25e0482749ea",
+        "lastName": "Donáth",
+        "lastNameTransliterated": "ˈdonaːt",
+        "email": "",
+        "careers": [
+          {
+            "id": "026c80a2f391eb16abb18aaa0d9f21fb",
+            "isPublic": true,
+            "endDate": "2024-07-15",
+            "position": "MEMBER",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "Renew Europe",
+              "name": "Renew Europe Group",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "10ef3738f6705821649e74713d4664b0",
+            "isPublic": true,
+            "endDate": "2024-07-15",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "Türkiye",
+              "name": "Delegation to the EU-Türkiye Joint Parliamentary Committee",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "13a3a25c8e9eea234bd91309b12ae33c",
+            "isPublic": true,
+            "endDate": "2022-03-23",
+            "position": "MEMBER",
+            "startDate": "2020-09-14",
+            "organization": {
+              "description": "Foreign Interference in all Democratic Processes in the European Union, including Disinformation",
+              "name": "Special Committee on Foreign Interference in all Democratic Processes in the European Union, including Disinformation",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "184afbfe-86ab-4503-83cc-76d15ecee97f",
+            "isPublic": true,
+            "endDate": null,
+            "position": "Member",
+            "startDate": "2020-05-17",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "Intergroup on Anti-Racism and Diversity",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1990da52205d3c7d9cbcf856acf093ba",
+            "isPublic": true,
+            "endDate": "2024-07-15",
+            "position": "MEMBER",
+            "startDate": "2020-01-30",
+            "organization": {
+              "description": "Intergroup on Anti-Corruption",
+              "name": "Intergroup on Anti-Corruption",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1960-04-14",
+        "firstName": "Eric",
+        "firstNameTransliterated": "/ˈɛrɪk/",
+        "gender": null,
+        "id": "01a67081-3fe0-4a36-a803-4f849b1d6e05",
+        "lastName": "Andrieu",
+        "lastNameTransliterated": "ɑ̃dʁiø",
+        "email": "",
+        "careers": [
+          {
+            "id": "006e68a7-e6cb-4451-9f28-2d72aeb13329",
+            "isPublic": true,
+            "endDate": "2022-03-06",
+            "position": "Vice-Chairman",
+            "startDate": "2021-02-25",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "Delegation for relations with Japan",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "03128db9d8d6bb9854c260d2e6715498",
+            "isPublic": true,
+            "endDate": "2023-06-01",
+            "position": "CHAIR_VICE",
+            "startDate": "2022-05-12",
+            "organization": {
+              "description": "ACP",
+              "name": "Delegation to the ACP-EU Joint Parliamentary Assembly",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "08335b82f2f040fe2c795efcce5ccc26",
+            "isPublic": true,
+            "endDate": "2023-06-01",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2022-01-20",
+            "organization": {
+              "description": "Environment, Public Health and Food Safety",
+              "name": "Committee on the Environment, Public Health and Food Safety",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "09082b392a6251602f69eb9be34100b5",
+            "isPublic": true,
+            "endDate": "2022-01-19",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2021-12-15",
+            "organization": {
+              "description": "Agriculture and Rural Development",
+              "name": "Committee on Agriculture and Rural Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0a06a3fcf80e4cbf84e773f8648bb3cb",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER",
+            "startDate": "2014-07-01",
+            "organization": {
+              "description": "PS",
+              "name": "Parti socialiste",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1956-03-05",
+        "firstName": "Kyriakos",
+        "firstNameTransliterated": "ˈkɪrɪəkɒs",
+        "gender": null,
+        "id": "01b8cfca1bbf2d5e573a3dabba45260b",
+        "lastName": "Gerontopoulos",
+        "lastNameTransliterated": "/d͡ʒɛrɒntɒˈpoʊliːoʊz/",
+        "email": "",
+        "careers": [
+          {
+            "id": "3293b89ebb4f7662e44572cca0481880",
+            "isPublic": true,
+            "endDate": "1987-01-20",
+            "position": "MEMBER",
+            "startDate": "1984-07-26",
+            "organization": {
+              "description": "Youth, Culture, Education, Information and sport",
+              "name": "Committee on Youth, Culture, Education, Information and Sport",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "65c42a354504e0f17d78cfe61dd92e00",
+            "isPublic": true,
+            "endDate": "1987-01-20",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1985-10-21",
+            "organization": {
+              "description": "Development and Cooperation",
+              "name": "Committee on Development and Cooperation",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "8aeeed1caaf2bda3958d22c0ce811034",
+            "isPublic": true,
+            "endDate": "1989-06-22",
+            "position": "MEMBER",
+            "startDate": "1984-07-24",
+            "organization": {
+              "description": "European People's Party",
+              "name": "Group of the European People's Party (Christian-Democratic Group)",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "cd925a7caef550fd2f22d568c79b6fe9",
+            "isPublic": true,
+            "endDate": "1987-01-20",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1984-07-26",
+            "organization": {
+              "description": "Regional Policy and Regional Planning",
+              "name": "Committee on Regional Policy and Regional Planning",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "d7513d0b4c78486b15d831ac7fa6c6f8",
+            "isPublic": true,
+            "endDate": "1987-01-20",
+            "position": "MEMBER",
+            "startDate": "1986-03-10",
+            "organization": {
+              "description": "Cyprus",
+              "name": "Delegation for relations with Cyprus",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1970-01-23",
+        "firstName": "Nicola",
+        "firstNameTransliterated": "/'nikələ/",
+        "gender": null,
+        "id": "01b9677f-0bee-4d5e-b3a9-0c96832fffc4",
+        "lastName": "Beer",
+        "lastNameTransliterated": "/bɪər/",
+        "email": "",
+        "careers": [
+          {
+            "id": "10f4eaf5-c72a-4675-9a36-52271b61dce0",
+            "isPublic": true,
+            "endDate": "2022-01-17",
+            "position": "Vice-President",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "13d5d4bd623b2234b0f3907a5dd01aed",
+            "isPublic": true,
+            "endDate": "2023-12-31",
+            "position": "PRESIDENT_VICE",
+            "startDate": "2022-01-18",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "22fe3a34a1a3970a93457aaf77bed559",
+            "isPublic": true,
+            "endDate": "2023-12-31",
+            "position": "MEMBER",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "Israel",
+              "name": "Delegation for relations with Israel",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "23d11614-e8f3-4c68-ba83-2e181f9038b2",
+            "isPublic": true,
+            "endDate": "2023-12-31",
+            "position": "Vice-President",
+            "startDate": "2022-01-18",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "27aef2e5c92d21ea768030bc73047871",
+            "isPublic": true,
+            "endDate": "2023-12-31",
+            "position": "MEMBER",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "FDP",
+              "name": "Freie Demokratische Partei",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1951-04-01",
+        "firstName": "Daniel",
+        "firstNameTransliterated": "/'dæniəl/",
+        "gender": null,
+        "id": "01bc55527335d0f2406004a9d493948e",
+        "lastName": "Varela Suanzes-Carpegna",
+        "lastNameTransliterated": "/βaˈɾela swanˈθes karˈpeɲa/",
+        "email": "",
+        "careers": [
+          {
+            "id": "0b4a2e304decfc9da03124b755a1cf2c",
+            "isPublic": true,
+            "endDate": "1999-11-10",
+            "position": "MEMBER",
+            "startDate": "1999-10-06",
+            "organization": {
+              "description": "Kazakhstan,...",
+              "name": "Delegations to the parliamentary cooperation committees and delegations for relations with Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan, Turkmenistan and Mongolia",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0e7d78dfc41e2c78bfc68b0db03c0537",
+            "isPublic": true,
+            "endDate": "2004-04-21",
+            "position": "MEMBER",
+            "startDate": "2003-11-20",
+            "organization": {
+              "description": "Improving safety at sea",
+              "name": "Temporary committee on improving safety at sea",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1000fd7f8972f37bd25126a9c489290e",
+            "isPublic": true,
+            "endDate": "2007-01-14",
+            "position": "MEMBER",
+            "startDate": "2004-07-21",
+            "organization": {
+              "description": "Fisheries",
+              "name": "Committee on Fisheries",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "11a6b579781df5dd3ed83312cd6276f1",
+            "isPublic": true,
+            "endDate": "2004-07-19",
+            "position": "MEMBER",
+            "startDate": "1999-07-20",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "11f47d165027c979682b90868d25702c",
+            "isPublic": true,
+            "endDate": "2009-03-09",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2007-01-31",
+            "organization": {
+              "description": "Regional Development",
+              "name": "Committee on Regional Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1975-04-18",
+        "firstName": "Kostas",
+        "firstNameTransliterated": "'kostas",
+        "gender": null,
+        "id": "01be0473-a717-411d-8fcf-05b2bcdfe5ae",
+        "lastName": "Papadakis",
+        "lastNameTransliterated": "/pæpəˈdækɪs/",
+        "email": "",
+        "careers": [
+          {
+            "id": "00987afc-f170-4adc-b804-5f45a853d845",
+            "isPublic": true,
+            "endDate": null,
+            "position": "Member",
+            "startDate": "2022-01-20",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "Committee on Foreign Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0346889e-3d4b-4c16-902e-9043d7821a28",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "Member",
+            "startDate": "2014-07-01",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "Non-attached Members",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "04793a53-ff82-44c1-8038-4dddab8dda5e",
+            "isPublic": true,
+            "endDate": null,
+            "position": "Member",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "Part of European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0a4fe9d648a5fc0a3022a5c8bdde67c0",
+            "isPublic": true,
+            "endDate": "2017-03-09",
+            "position": "MEMBER",
+            "startDate": "2014-07-14",
+            "organization": {
+              "description": "Palestine",
+              "name": "Delegation for relations with Palestine",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0cb22a3b0b72e29c09035e202d9f6066",
+            "isPublic": true,
+            "endDate": "2024-07-15",
+            "position": "MEMBER",
+            "startDate": "2019-07-02",
+            "organization": {
+              "description": "Türkiye",
+              "name": "Delegation to the EU-Türkiye Joint Parliamentary Committee",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1949-09-23",
+        "firstName": "William",
+        "firstNameTransliterated": "/'wɪ.li.əm/",
+        "gender": null,
+        "id": "01ce4f906e00df356f8ae2f2ea536a92",
+        "lastName": "(The Earl of) Dartmouth",
+        "lastNameTransliterated": "(ði ɜːrl ɒv) dɑːtməθ",
+        "email": "",
+        "careers": [
+          {
+            "id": "0c2ec2cb28b8f6b02f6765918c76dc94",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER",
+            "startDate": "2014-10-20",
+            "organization": {
+              "description": "Europe of Freedom and Direct Democracy Group",
+              "name": "Europe of Freedom and Direct Democracy Group",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1558cce3445197673fe106ef165a0e4c",
+            "isPublic": true,
+            "endDate": "2017-01-18",
+            "position": "MEMBER",
+            "startDate": "2014-07-01",
+            "organization": {
+              "description": "International Trade",
+              "name": "Committee on International Trade",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "18b5bdf6046358c14bf70ecd6f5b9e8d",
+            "isPublic": true,
+            "endDate": "2014-10-19",
+            "position": "MEMBER",
+            "startDate": "2014-10-16",
+            "organization": {
+              "description": "Non-attached Members",
+              "name": "Non-attached Members",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "24b9baf4070d302262e41913b914cb41",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER",
+            "startDate": "2009-07-14",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2e234922fc687624d5f0d10412c6789d",
+            "isPublic": true,
+            "endDate": "2019-07-01",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2018-11-05",
+            "organization": {
+              "description": "Economic and Monetary Affairs",
+              "name": "Committee on Economic and Monetary Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1959-09-30",
+        "firstName": "Fernand",
+        "firstNameTransliterated": "/fɛrˈnand/",
+        "gender": null,
+        "id": "01f0f9f4a42592602cc785118f6f50ce",
+        "lastName": "Kartheiser",
+        "lastNameTransliterated": "/'kɑ:θaizər/",
+        "email": "",
+        "careers": [
+          {
+            "id": "1e7c302bb4ab8c63fc0eb90cf699d232",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "ADR",
+              "name": "Alternativ Demokratesch Reformpartei",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "2fc5b2aeac68872a75352bf3e0a6bd95",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "Economic and Monetary Affairs",
+              "name": "Committee on Economic and Monetary Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "4c7dcf3151220263320aa1c516942f52",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2024-09-19",
+            "organization": {
+              "description": "Armenia, Azerbaijan, Georgia",
+              "name": "Delegation to the EU-Armenia Parliamentary Partnership Committee, the EU-Azerbaijan Parliamentary Cooperation Committee and the EU-Georgia Parliamentary Association Committee",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "5a32a3ce5a913e934f726a250d44d505",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2024-09-23",
+            "organization": {
+              "description": "Eurolat",
+              "name": "Delegation to the Euro-Latin American Parliamentary Assembly",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "84ce05278189b59bd98f9eb7f2b5b754",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "Industry, Research and Energy",
+              "name": "Committee on Industry, Research and Energy",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1925-10-13",
+        "firstName": "Lorenzo",
+        "firstNameTransliterated": "lɔˈrɛntso",
+        "gender": null,
+        "id": "01f2c297d52b1685226f852d68b22219",
+        "lastName": "De Vitto",
+        "lastNameTransliterated": "/dɛ 'vɪtoʊ/",
+        "email": "",
+        "careers": [
+          {
+            "id": "020b332b608bd013c95699f9d9e8fed5",
+            "isPublic": true,
+            "endDate": "1990-01-19",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1989-07-26",
+            "organization": {
+              "description": "Institutional Affairs",
+              "name": "Committee on Institutional Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0b772e55dd449d52769391fd45760c5f",
+            "isPublic": true,
+            "endDate": "1994-04-27",
+            "position": "MEMBER",
+            "startDate": "1992-01-17",
+            "organization": {
+              "description": "Transport and Tourism",
+              "name": "Committee on Transport and Tourism",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "12cda6166a62de5a1f4c8f1d005a52ae",
+            "isPublic": true,
+            "endDate": "1994-04-27",
+            "position": "MEMBER",
+            "startDate": "1992-01-15",
+            "organization": {
+              "description": "Social Affairs, Employment and Working Environment",
+              "name": "Committee on Social Affairs, Employment and the Working Environment",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "27d46221180cb76110ea62b455112a6e",
+            "isPublic": true,
+            "endDate": "1992-01-14",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1989-07-26",
+            "organization": {
+              "description": "Agriculture, Ficheries and Rural Development",
+              "name": "Committee on Agriculture, Fisheries and Rural Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "300c7ae0783e42b406a0e8105c6c2796",
+            "isPublic": true,
+            "endDate": "1992-01-14",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1989-07-26",
+            "organization": {
+              "description": "Energy, Research and Technology",
+              "name": "Committee on Energy, Research and Technology",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1956-08-04",
+        "firstName": "Giovanni M.S.",
+        "firstNameTransliterated": "d͡ʒoʊˈvɑːni ɛm ɛs",
+        "gender": null,
+        "id": "01f414d0382b9e26a89ce16e7a66fce3",
+        "lastName": "Burtone",
+        "lastNameTransliterated": "/bɜrtoʊn/",
+        "email": "",
+        "careers": [
+          {
+            "id": "04768b21cc3d29eabef3892a2b8d3b77",
+            "isPublic": true,
+            "endDate": "1997-01-15",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1994-07-21",
+            "organization": {
+              "description": "Agriculture",
+              "name": "Committee on Agriculture and Rural Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "08c5bec2934a864d6c2649efa8b8c840",
+            "isPublic": true,
+            "endDate": "1997-01-15",
+            "position": "MEMBER",
+            "startDate": "1995-07-12",
+            "organization": {
+              "description": "South America",
+              "name": "Delegation for relations with the countries of South America",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "0b445f8e034b3f141c6425014bbe6cd4",
+            "isPublic": true,
+            "endDate": "1997-01-15",
+            "position": "MEMBER",
+            "startDate": "1994-07-21",
+            "organization": {
+              "description": "Environment, Health, Consumer Protection",
+              "name": "Committee on the Environment, Public Health and Consumer Protection",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "177868bf7d4345686af11fe2dc3e6b90",
+            "isPublic": true,
+            "endDate": "1999-07-19",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "1999-02-24",
+            "organization": {
+              "description": "South America and MERCOSUR",
+              "name": "Delegation for relations with the countries of South America and MERCOSUR",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "53219d1bbd8664dfd982f3f58b985cb8",
+            "isPublic": true,
+            "endDate": "1995-07-19",
+            "position": "MEMBER",
+            "startDate": "1994-07-21",
+            "organization": {
+              "description": "Temporary committee on employment",
+              "name": "Temporary committee on employment",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1976-05-19",
+        "firstName": "Åsa",
+        "firstNameTransliterated": "/'o:sa/",
+        "gender": null,
+        "id": "01fb51b5d723acc126bdb00b1b9c6e55",
+        "lastName": "Westlund",
+        "lastNameTransliterated": "'wɛstlʌnd",
+        "email": "",
+        "careers": [
+          {
+            "id": "198abb594fdc41b67e92481001d7d279",
+            "isPublic": true,
+            "endDate": "2007-01-30",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2007-01-15",
+            "organization": {
+              "description": "Culture and Education",
+              "name": "Committee on Culture and Education",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1c533df540959d9123e01b1faed233c9",
+            "isPublic": true,
+            "endDate": "2007-01-14",
+            "position": "MEMBER",
+            "startDate": "2004-07-21",
+            "organization": {
+              "description": "Environment, Public Health and Food Safety",
+              "name": "Committee on the Environment, Public Health and Food Safety",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1db3ffbb9fe9b214fc818d25c8b29c86",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2004-07-20",
+            "organization": {
+              "description": "SAP",
+              "name": "Arbetarepartiet- Socialdemokraterna",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "1eda973a399b205f6f86a0a70f911e5f",
+            "isPublic": true,
+            "endDate": "2014-06-30",
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2009-07-14",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "48c7ae366359cbcb39ab68102a8a8a5d",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2007-01-31",
+            "organization": {
+              "description": "Development",
+              "name": "Committee on Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1985-07-29",
+        "firstName": "Sander",
+        "firstNameTransliterated": "ˈsændər",
+        "gender": null,
+        "id": "020006374eec501427fc1ca89689133b",
+        "lastName": "Smit",
+        "lastNameTransliterated": "/smɪt/",
+        "email": "",
+        "careers": [
+          {
+            "id": "0b0f00e2378e4edf7461bcd80430c759",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "BBB",
+              "name": "BoerBurgerBeweging",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "511a054603244d0bb8ba80f14ac682b5",
+            "isPublic": true,
+            "endDate": "2024-07-22",
+            "position": "MEMBER",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "Fisheries",
+              "name": "Committee on Fisheries",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "5bfb05b08f825be6e681266a38dc33e3",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "Environment, Public Health and Food Safety",
+              "name": "Committee on the Environment, Public Health and Food Safety",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "6e4a33fd8643d9128e57679e293ceb6b",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2024-09-19",
+            "organization": {
+              "description": "Israel",
+              "name": "Delegation for relations with Israel",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "72de68263691b9950af42ff77d37b11f",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "Group of the European People's Party (Christian Democrats)",
+              "name": "Group of the European People's Party (Christian Democrats)",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1955-11-16",
+        "firstName": "Marie-Hélène",
+        "firstNameTransliterated": "maʁi elɛn",
+        "gender": null,
+        "id": "02015b719b3507673e2e6f46e8b83f97",
+        "lastName": "Aubert",
+        "lastNameTransliterated": "/ɵˈbɛɹ/",
+        "email": "",
+        "careers": [
+          {
+            "id": "0b7fb9adff5a4aab8ce3c5f1cb513075",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2007-01-31",
+            "organization": {
+              "description": "Development",
+              "name": "Committee on Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "17307c37df310f4e22b5cc0ea7b4914c",
+            "isPublic": true,
+            "endDate": "2007-01-14",
+            "position": "MEMBER",
+            "startDate": "2004-07-21",
+            "organization": {
+              "description": "Agriculture and Rural Development",
+              "name": "Committee on Agriculture and Rural Development",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "18a374061e13326fb192ba24a1929d10",
+            "isPublic": true,
+            "endDate": "2007-01-14",
+            "position": "MEMBER",
+            "startDate": "2004-07-21",
+            "organization": {
+              "description": "Fisheries",
+              "name": "Committee on Fisheries",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "257bc6bcf54276b4b3d20b8e5c8f6db1",
+            "isPublic": true,
+            "endDate": "2009-07-13",
+            "position": "MEMBER",
+            "startDate": "2004-07-20",
+            "organization": {
+              "description": "Les Verts",
+              "name": "Les Verts-Europe-Ecologie",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3af52a0b61003c8e917b264b1b937b74",
+            "isPublic": true,
+            "endDate": "2007-06-23",
+            "position": "MEMBER",
+            "startDate": "2004-09-15",
+            "organization": {
+              "description": "ACP-EU Joint Parliamentary Assembly",
+              "name": "Delegation to the ACP-EU Joint Parliamentary Assembly",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "birthDate": "1959-06-20",
+        "firstName": "Jan-Peter",
+        "firstNameTransliterated": "jan-piːtər",
+        "gender": null,
+        "id": "02044a06a7e17d6121a377232d308f47",
+        "lastName": "Warnke",
+        "lastNameTransliterated": "'wɔːrnkə",
+        "email": "",
+        "careers": [
+          {
+            "id": "181d6eda37c63e790caf91e91736b3a3",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2024-09-19",
+            "organization": {
+              "description": "South Asia",
+              "name": "Delegation for relations with the countries of South Asia",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "188cadcf1ba74664b4d085a513e5899f",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_SUBSTITUTE",
+            "startDate": "2024-07-19",
+            "organization": {
+              "description": "Economic and Monetary Affairs",
+              "name": "Committee on Economic and Monetary Affairs",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3568b7eb79e367bc9fe1409eeb2e8f67",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "BSW",
+              "name": "Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3c01a7116818b6b4396f8fb0a4b8d371",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER_PARLIAMENT",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "European Parliament",
+              "name": "European Parliament",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          },
+          {
+            "id": "3f2046c06af35e21875fc20174a42288",
+            "isPublic": true,
+            "endDate": null,
+            "position": "MEMBER",
+            "startDate": "2024-07-16",
+            "organization": {
+              "description": "Non-attached Members",
+              "name": "Non-attached Members",
+              "institution": {
+                "name": "EuropeanParliament",
+                "id": "00000000-0000-4000-a07c-8cbea7bc3536"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
