@@ -1,3 +1,5 @@
+'use client'
+
 import { PoliticianSummary } from "../types"
 
 const PoliticianCard = ({politician}:{politician:PoliticianSummary}) => {

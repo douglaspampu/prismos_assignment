@@ -1,3 +1,5 @@
+'use client'
+
 import { Career } from "../types"
 
 const CareerCard = ({career}:{career:Career}) => {

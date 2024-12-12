@@ -1,4 +1,5 @@
-import PoliticianSummaryCard from '@/app/components/politicianSummaryCard';
+'use server'
+
 import { Career, PoliticianSummary } from '@/app/types';
 import { promises as fs } from 'fs';
 import "../../globals.css";
