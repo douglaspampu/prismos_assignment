@@ -39,5 +39,6 @@ export type SearchQuery = {
     organization?:string,
     institution?:string,
     lastTerm?: string
+    sortBy?:string
 }
 

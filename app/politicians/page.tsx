@@ -19,6 +19,20 @@ const dateFilters = {
     all_time:(p:PoliticianSummary) => {return true},
 }
 
+const sortingCriteria = {
+    name:(polA:PoliticianSummary, polB:PoliticianSummary)=>{ 
+        return `${polA.firstName} ${polA.lastName}`.localeCompare(`${polB.firstName} ${polB.lastName}`)
+    },
+    birthDate:(polA:PoliticianSummary, polB:PoliticianSummary)=>{
+        if(!polA.birthDate || !polB.birthDate)
+            return -1
+        const aDate = new Date(polA.birthDate)
+        const bDate = new Date(polB.birthDate)
+
+        return bDate.getTime() - aDate.getTime()
+    }
+}
+
 export default async function Politicians(props: {
         searchParams?: Promise<SearchQuery>;
     }) {
@@ -67,6 +81,9 @@ export default async function Politicians(props: {
             && filterByInstitution(p)
             && filterByDate(p)
             
+        })
+        .sort((polA:PoliticianSummary, polB:PoliticianSummary)=>{
+            return searchParams.sortBy ? sortingCriteria[searchParams.sortBy as keyof typeof sortingCriteria](polA, polB) : 0
         })
 
         return politicians as PoliticianSummary[]

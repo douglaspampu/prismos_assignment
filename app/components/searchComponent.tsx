@@ -6,12 +6,14 @@ import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 
 const Search = () => {
     const searchParams = useSearchParams();
+    const params = new URLSearchParams(searchParams);
     const pathname = usePathname();
     const { replace } = useRouter();
-    const [name, setName] = useState('')
-    const [institution, setInstitution] = useState('')
-    const [organization, setOrganization] = useState('')
-    const [lastTerm, setLastTerm] = useState('all_time')
+    const [name, setName] = useState(params.get('name')||'')
+    const [institution, setInstitution] = useState(params.get('institution')||'')
+    const [organization, setOrganization] = useState(params.get('organization')||'')
+    const [lastTerm, setLastTerm] = useState(params.get('lastTerm')||'all_time')
+    const [sortBy, setSortBy] = useState(params.get('sortBy'))
 
     return (
         <>
@@ -64,6 +66,31 @@ const Search = () => {
 
                     }}>Search</button>
 
+                </div>
+                <div>
+                    <label>Sort by</label>
+                    <form>
+                        <p className="m-2">
+                            <label>Name</label> 
+                            <input name='sort_by' type="radio" checked={sortBy==='name'} onChange={()=>{
+                                const params = new URLSearchParams(searchParams);
+                                params.set('sortBy', 'name')
+                                replace(`${pathname}?${params.toString()}`);
+
+                                setSortBy('name')
+                            }}/>
+                        </p>
+                        <p  className="m-2">
+                            <label>Birth date </label> 
+                            <input name='sort_by' type="radio" checked={sortBy==='birthDate'} onChange={()=>{
+                                const params = new URLSearchParams(searchParams);
+                                params.set('sortBy', 'birthDate')
+                                replace(`${pathname}?${params.toString()}`);
+
+                                setSortBy('birthDate')
+                            }}/>
+                        </p>
+                    </form>
                 </div>
             </div>
     </>)
